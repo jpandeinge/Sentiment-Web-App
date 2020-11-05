@@ -9,7 +9,7 @@ This is a web app for classfying sentences where there they carry a postive, neu
 
 This is a preview of the application on your browser
 
-![alt text](https://github.com/jpandeinge/Sentiment-Web-App/blob/main/pos.png)
+![alt text](https://github.com/jpandeinge/Sentiment-Web-App/blob/main/positive.png)
 
 ![alt text](https://github.com/jpandeinge/Sentiment-Web-App/blob/main/neu.png)
 ![alt text](https://github.com/jpandeinge/Sentiment-Web-App/blob/main/neg.png)

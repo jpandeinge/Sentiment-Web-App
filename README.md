@@ -14,3 +14,5 @@ This is a preview of the application on your browser
 ![alt text](https://github.com/jpandeinge/Sentiment-Web-App/blob/main/neu.png)
 ![alt text](https://github.com/jpandeinge/Sentiment-Web-App/blob/main/neg.png)
 
+## What is next?
+This can be deployed either on `Docker` and host it on `AWS`, `MS Azure`, `GCP` or anywhere you comfortable with.

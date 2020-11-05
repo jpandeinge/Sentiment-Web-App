@@ -7,3 +7,10 @@ This is a web app for classfying sentences where there they carry a postive, neu
 3. Copy the link `http://127.0.0.1:5000/` to your browser. 
 4. Type any sentence and predict the sentiment type.
 
+This is a preview of the application on your browser
+
+![alt text](https://github.com/jpandeinge/Sentiment-Web-App/blob/main/pos.png)
+
+![alt text](https://github.com/jpandeinge/Sentiment-Web-App/blob/main/neu.png)
+![alt text](https://github.com/jpandeinge/Sentiment-Web-App/blob/main/neg.png)
+
